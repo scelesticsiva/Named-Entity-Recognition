@@ -1,2 +1,4 @@
 dummy.py
 .idea/
+__pycache__/
+
